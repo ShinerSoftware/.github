@@ -12,7 +12,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-@shinesoft--gz-ff0000?style=flat-square)](https://www.youtube.com/@shinesoft-gz)
 [![邮箱](https://img.shields.io/badge/联系我们-team@shinesoft.cn-333?style=flat-square)](mailto:team@shinesoft.cn)
 
-**[English](./README.md) | 简体中文**
+**[English](./README-en.md) | 简体中文**
 
 </div>
 
