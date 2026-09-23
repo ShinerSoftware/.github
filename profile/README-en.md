@@ -12,7 +12,7 @@ Speech-to-Subtitle · Translation · Editing · Karaoke Effects · End to End
 [![YouTube](https://img.shields.io/badge/YouTube-@shinesoft--gz-ff0000?style=flat-square)](https://www.youtube.com/@shinesoft-gz)
 [![Email](https://img.shields.io/badge/Contact-team@shinesoft.cn-333?style=flat-square)](mailto:team@shinesoft.cn)
 
-**English | [简体中文](./README-zh.md)**
+**English | [简体中文](./README.md)**
 
 </div>
 
